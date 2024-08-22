@@ -1,6 +1,4 @@
 *.zip
-/dataset
-*.csv
 *.xlsx
 # Ignore Python bytecode files
 *.pyc
