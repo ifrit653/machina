@@ -1,8 +1,9 @@
 *.zip
-*.xlsx
 # Ignore Python bytecode files
 *.pyc
-
+new-data/
+*.pdf
+myenv/
 # Ignore environment files
 .env
 
